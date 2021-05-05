@@ -4,5 +4,5 @@ Esse repositório sobe dois contêineres, nginx e mysql, mapeando a porta 80 do 
 
 Alunas: Amanda Botelho de Moraes e Bruna Vieira Teixeira
 
-# Execução
+## Execução
 docker-compose up
